@@ -24,3 +24,23 @@ a {
 a:hover {
     color: cadetblue;
 }
+
+#bola {
+    display: flex;
+    height: 494px;
+    width: 494px;
+    background-color: #424141;
+    margin: auto;
+    border-radius: 50%;
+    position: relative;
+    top: 200px;
+    right: 300px;
+}
+
+#nerd {
+    display: flex;
+    position: relative;
+    margin: auto;
+    bottom: 220px;
+    right: 299px;
+}

@@ -2,6 +2,7 @@
 
 body {
     margin: 0px;
+    background-color: ;
 }
 
 header {
@@ -41,6 +42,4 @@ a:hover {
     display: flex;
     position: relative;
     margin: auto;
-    bottom: 220px;
-    right: 299px;
 }

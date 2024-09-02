@@ -2,7 +2,7 @@
 
 body {
     margin: 0px;
-    background-color: ;
+    background-color: #D9D9D9;
 }
 
 header {
@@ -42,4 +42,13 @@ a:hover {
     display: flex;
     position: relative;
     margin: auto;
+}
+
+#linha-red-1 {
+    position: relative;
+    height: 1px;
+    width: 130px;
+    background-color: black;
+    bottom: 200px;
+    left: 300px;
 }
